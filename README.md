@@ -81,7 +81,7 @@ New contributors are always welcome to support this project. If you want somethi
 
 ***You can Install and test latest covid app from below 👇*** <br> 
 
-<a id="raw-url" href="https://github.com/Abhi6722/covidapp/releases/download/v1/TouchNotes.apk">Download App</a>
+<a id="raw-url" href="https://github.com/Abhi6722/covidapp/releases/download/v1/covidapp.apk">Download App</a>
 
 # Screenshots :
 <details>
