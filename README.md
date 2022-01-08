@@ -13,7 +13,8 @@
 ![DEPENDENCIES](https://img.shields.io/badge/Kotlin-Covid_App-green?&style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-v1-fcba03?style=for-the-badge)
 
-The COVID-19 crisis and social distancing had a significant impact on our lives. And it has affected the lives of billions of people and to a greater extent this year. “The year of the pandemic” has shown that apps are at the heart of our lives, and we rely on them more than ever before.</br></br>
+The COVID-19 crisis and social distancing had a significant impact on our lives. And it has affected the lives of billions of people and to a greater extent this year. “The year of the pandemic” has shown that apps are at the heart of our lives, and we rely on them more than ever before.</br>
+
 Contact tracing apps are used by health departments to find people who may have come into contact with someone infected with COVID-19. Apps aid in the collection of data and the tracking of people's movements, making the process faster and more useful. Some may be able to identify people who may have been exposed to the virus, allowing them to isolate themselves and monitor for symptoms.
 
 #### This is a Beginner Friendly Repository made for Open Source Enthusiasts who can contribute to the App. 
